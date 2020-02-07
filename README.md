@@ -17,3 +17,4 @@ The Foursquare API explore venues query returns venue names, locations, and cate
 The venue information can be grouped by neighborhood and used to segment neighborhoods into clusters with similar frequencies of venue categories. 
 
 
+The complete report can be found here: https://kmashby.github.io/Coursera_Capstone/Final_Report.html
